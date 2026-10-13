@@ -4,7 +4,7 @@ cloudResources:
   globals:
     ../postman/globals/workspace.globals.yaml: 738df7ac-ac62-43f5-8e1f-df4c44dc6e00
   collections:
-    ../programa: 37128261-ae05726e-7393-4597-ae87-1db443a2e6c5
+    ../programa: 37128261-431098eb-263a-4682-8087-58bc9760b198
 localResources:
   collections:
     - ../programa
